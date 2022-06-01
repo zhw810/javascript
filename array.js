@@ -1,3 +1,4 @@
+//Create a constructor function Calculator that creates “extendable” calculator objects.
 function Calculator(){
     this.methods = {
         "+": (a, b) => a+b,
